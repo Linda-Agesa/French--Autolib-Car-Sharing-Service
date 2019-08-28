@@ -12,7 +12,8 @@ Using inferential statistics to predict the probability of an average of 2,500 b
 >   - Sampling
 >   - Hypothesis testing
 >   - Prediction
->8. Challenging the solution
->9. Evaluation of the solution
->10. Summary of findings
->11. Conclusions
+>8.  Evaluation of the solution
+>9. Summary of findings
+>10. Conclusions
+>11. Recommendation 
+>12. Next Steps
